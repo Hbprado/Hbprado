@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heitor Brayner</h1>
+<h1 align="center">Hi!</h1>
 <h3 align="center">I am a computer science student at the Federal University of Pernambuco, and I have a strong interest in backend development</h3>
 
 - 🔭 I’m currently working on **Backend projects with Nestjs**
