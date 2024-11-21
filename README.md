@@ -9,7 +9,7 @@
   
 - 📫 How to reach me **heitorbrayner@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uR3PSvy3l2UqUWFerr-gp1y5kr35P0lC/view?usp=sharing](https://drive.google.com/file/d/1uR3PSvy3l2UqUWFerr-gp1y5kr35P0lC/view?usp=sharing)
+- 📄 Know about my experiences: [Curriculum](https://drive.google.com/file/d/11vjuLsSqfqTYx9MNFvliLSJ9Pc11f5oG/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
