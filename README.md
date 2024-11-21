@@ -1,9 +1,9 @@
 <h1 align="center">Hi There! </h1>
-<h3 align="center">I am a computer science student at the Federal University of Pernambuco, and I have a strong interest in backend development</h3>
+<h3 align="center">I am a computer science student at the Federal University of Pernambuco, and I have a strong interest in web development</h3>
 
-- 🔭 I’m currently working on **Backend projects with Nestjs and Spring Boot**
+- 🔭 I’m currently working on **Backend projects with Nestjs, Spring Boot, Angular, C#, .NET and React**
 
-- 🌱 I’m currently learning **Java, Spring Boot and AWS**
+- 🌱 I’m currently learning **C#, .NET, React, Java, Spring Boot and AWS**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
   
